@@ -18,24 +18,28 @@
 
 ## 📁 Documents principaux
 
-| Document | Description | Statut |
+| Document | Description | Action |
 |----------|-------------|---------|
-| `LETTRE_RECOURS_FINALE.tex` | Lettre LaTeX avec arguments juridiques | ✅ Prêt |
-| `EMAIL_PRINCIPAL_FINAL.txt` | Email d'accompagnement | ✅ Prêt |
-| `ARGUMENTAIRE_JURIDIQUE_COMPLET.md` | Analyse juridique détaillée | ✅ Complet |
+| `LETTRE_RECOURS_FINALE.tex` | Lettre LaTeX avec arguments juridiques | Compiler avec pdflatex |
+| `EMAIL_PRINCIPAL_FINAL.txt` | Email d'accompagnement | Copier pour envoi |
+| `RELANCE_J+7.txt` | Première relance | Envoyer à J+7 |
+| `RELANCE_J+14_ULTIMATUM.txt` | Ultimatum final | Envoyer à J+14 |
+| `ARGUMENTAIRE_JURIDIQUE_COMPLET.md` | Analyse juridique | Référence |
 
 ## 🚀 Actions immédiates
 
-### Étape 1 : Compilation LaTeX
+### Étape 1 : Compiler la lettre
 ```bash
 pdflatex LETTRE_RECOURS_FINALE.tex
 ```
 
-### Étape 2 : Dépôt en ligne
-https://recoursetudiants.sorbonne-universite.fr
+### Étape 2 : Triple envoi obligatoire
+- **Plateforme** : https://recoursetudiants.sorbonne-universite.fr
+- **Email** : dftlv-recours-contact@sorbonne-universite.fr
+- **LRAR** : Direction Formation, 21 rue École de médecine, 75006 Paris
 
-### Étape 3 : Envoi email
-dftlv-recours-contact@sorbonne-universite.fr
+### Étape 3 : Rassembler les pièces
+Préparer les 12 documents listés dans la lettre (relevés, certificat TDAH, etc.)
 
 ## 📅 Calendrier
 

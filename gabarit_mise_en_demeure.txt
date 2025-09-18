@@ -1,7 +1,0 @@
-Objet : Mise en demeure – rectification de note (module Optimisation) – décision n° <NUM_DECISION>
-
-Madame, Monsieur,
-Sans réponse favorable sous <DÉLAI RAISONNABLE> jours à compter de la présente, je vous mets en demeure de procéder à la rectification de la note litigieuse, à la mise à jour de mon relevé et à la notification de votre décision motivée.
-À défaut, je me réserve toute voie de droit utile.
-Cordialement,
-<NOM PRÉNOM>
