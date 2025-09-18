@@ -1,0 +1,31 @@
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*.log
+~*
+
+# LaTeX
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+
+# Système
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Fichiers privés
+*_prive*
+*_confidentiel*
+certificat_medical_original*

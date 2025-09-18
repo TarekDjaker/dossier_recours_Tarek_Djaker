@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:recoursetudiants.sorbonne-universite.fr)",
+      "WebFetch(domain:www.sorbonne-universite.fr)",
+      "WebFetch(domain:www.legifrance.gouv.fr)",
+      "Bash(dir:*)",
+      "WebFetch(domain:charrel-avocats.com)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
